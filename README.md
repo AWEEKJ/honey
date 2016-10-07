@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.org/haandol/honey.svg?branch=master)](https://travis-ci.org/haandol/honey)
+[![Build Status](https://travis-ci.org/AWEEKJ/modo-bot.svg?branch=release)](https://travis-ci.org/AWEEKJ/modo-bot)
 
-# Honey
+# MODObot made by Honey
 
 A neat [Slack](slack.com) bot for Pythonistas
 
